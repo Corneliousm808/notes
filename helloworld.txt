@@ -1,0 +1,81 @@
+//My first Sublime Text File.
+
+CLI // Command Line interface
+- means of interacting with a computer in the fore of successive lines of text.
+
+GUI // Graphical user interface
+- means of interacting with a computer using visual icons.
+
+3 levels of knowing:
+1. knowing and nderstanding
+2. Teaching and reinforcing
+Grocking - to understand intuitively.
+
+
+Tools
+1. Sublime text
+2. Github3+3+.3+
+
+3. Git shell
+
+// Do not copy and paste - know what each line of code does before using code off the internet
+
+File Structure
+Root Directory 
+Files
+	 
+	 Sub folder
+	 Files
+
+	 	  Files
+	 	  Subfolder
+
+directory- folder
+
+Git Shell commands (CLI // Terminal)
+cd- change into directory
+ls- list directories
+mikdir- create a directory
+cd /- goes to computer root folder (c drive)
+..- move up
+touch (file name).txt- create a file
+Git Commands
+
+git init- initialize project 
+git status- checks project status
+"clean"- no red in status
+git add- (filename)
+git commit- -m 'this is my first commit for notes'
+git push- uploads to repository
+
+UI- User Interface
+UE- Useer Experience
+//////////////////////////////////////////////////////////////////////////////////////////////
+markup.txt
+<p></p> // paragraph element
+</a> // closing tag
+<header></header> // navigation, logo
+<footer></footer> // copyright
+<div></div> // block element - start new lines
+<span></span> //inline elements
+<a></a>
+<img />
+Attributes
+<img src="http://something.com/myimage.jpg"/>
+////////////////////////////////////////////////////////////////////////////////////////////////////
+Responsive design- building a site to respond to multiple sizes also knownm as fluid design
+ex) Google, Facebook,
+Grid Based webdesign- Design with grid content
+Media queries- Break points in CSS that tell your app to change according to screeensize
+most common- desktop, mobile, tablet
+ex) <style>
+    @media(max width 600px) {
+em in CSS- Unit of measure in CSS that adjust to parent times 150% Use em in responsive design and px in statyic desihgn
+How to convert px to em- times by 1.5
+Pseudo class selectors- Usedeto design a specail state
+Mobile Design- Web application designed for a mobile device. Effective for mobile because it is simple to use
+^^Needs media queries^^
+ex) Instagram
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+Javaskript
+Var  
